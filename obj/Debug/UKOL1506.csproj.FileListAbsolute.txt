@@ -1,0 +1,11 @@
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\UKOL1506\bin\Debug\UKOL1506.exe.config
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\UKOL1506\bin\Debug\UKOL1506.exe
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\UKOL1506\bin\Debug\UKOL1506.pdb
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\UKOL1506\obj\Debug\UKOL1506.csproj.AssemblyReference.cache
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\UKOL1506\obj\Debug\UKOL1506.csproj.SuggestedBindingRedirects.cache
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\UKOL1506\obj\Debug\UKOL1506.Form1.resources
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\UKOL1506\obj\Debug\UKOL1506.Properties.Resources.resources
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\UKOL1506\obj\Debug\UKOL1506.csproj.GenerateResource.cache
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\UKOL1506\obj\Debug\UKOL1506.csproj.CoreCompileInputs.cache
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\UKOL1506\obj\Debug\UKOL1506.exe
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\UKOL1506\obj\Debug\UKOL1506.pdb
